@@ -1,4 +1,4 @@
-module github.com/Shopify/gomail
+module github.com/bashwara/gomail
 
 go 1.13
 
